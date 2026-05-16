@@ -1,0 +1,18 @@
+# GitHub Pages Configuration — AI with Jordi Johnny
+
+title: "AI with Jordi Johnny"
+description: "AI Automation & Cybersecurity Consulting. Founded by Jessica Monarez. Helping businesses automate, protect, and grow with custom AI solutions."
+url: "https://jessicamonarezjm.github.io"
+baseurl: ""
+
+author:
+  name: "Jessica Monarez"
+  email: "aiwithjordijohnny@gmail.com"
+  location: "Wichita, KS"
+
+youtube: "AIWithJordiJohnny"
+
+lang: "en"
+timezone: "America/Chicago"
+
+plugins: []
